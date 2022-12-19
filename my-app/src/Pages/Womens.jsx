@@ -9,7 +9,7 @@ function Womens(){
             <Box>
                 <Flex>
                     <Box>
-                        <Image src='https://cdn.modesens.com/availability/57841520?w=800'></Image>
+                        <Image src='https://cdn.modesens.com/product/41549743_2?w=400'></Image>
                     </Box>
                     <Box>
                        <Container>
@@ -29,7 +29,7 @@ function Womens(){
             </Box>
             <Box>
                 <Flex>
-                <Image src='https://img.brownsfashion.com/19/09/18/31/19091831_42034666_800.jpg' />
+                <Image src='https://cdn.modesens.com/product/43660582_10?w=400' />
                     
                             <Image boxSize="md" src='https://img.brownsfashion.com/19/09/18/31/19091831_42033619_800.jpg'></Image>
                    
